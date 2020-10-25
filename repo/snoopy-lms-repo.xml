@@ -2,12 +2,12 @@
 <extensions>
   <plugins>
     <plugin version="1.0.0" name="IRBlaster_v2" minTarget="7.5" maxTarget="*">
-      <link>https://github.com/snoopy86/lms-irblaster</link>
+      <link>https://github.com/devdems/lms-irblaster</link>
       <creator>Simon Medved</creator>
       <sha>9EA93F1258E8DAB767240A438F8FD881D6AAACAC</sha>
       <email/>
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down). Derived from Felix Mueller plugin.</desc>
-      <url>http://github.com/snoopy86/lms-irblaster/raw/master/IRBlaster-1.0.0.zip</url>
+      <url>https://github.com/devdems/lms-irblaster/archive/master.zip</url>
       <title lang="EN">IRBlaster v2</title>
     </plugin>
    </plugins>
